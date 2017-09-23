@@ -46,7 +46,7 @@
     "YourPublicRange" : {
       "Description" : "Address range in CIDR format for your public address range for access to the instance.",
       "Type" : "String",
-      "ConstraintDescription" : "0.0.0.0/0"
+      "ConstraintDescription" : "128.0.0.0/26"
     }
     
   },
